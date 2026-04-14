@@ -8,9 +8,9 @@
    - *Annotation:* Tests programmatic SEO and AI content generation tools at scale. Focuses on actionable automated workflows.
 2. **[Matt Diggity](https://www.youtube.com/@MattDiggity)**
    - *Annotation:* Conducts rigorous case studies comparing AI vs. human content, AI detection, and algorithm updates.
-3. **[Gael Breton (Authority Hacker)](https://www.youtube.com/@AuthorityHacker)**
+3. **[Gael Breton (Authority Hacker)](https://www.youtube.com/@AuthorityHackerPodcast)**
    - *Annotation:* Provides deep-dive reviews of AI models (Claude, GPT) and their practical application in building niche sites.
-4. **[Koray Tuğberk GÜBÜR](https://www.youtube.com/@KorayTugberkGUBUR)**
+4. **[Koray Tuğberk GÜBÜR](https://www.youtube.com/@TopicalAuthority)**
    - *Annotation:* Expert in Semantic SEO. Teaches how to use AI to generate complex topical maps and semantic content networks.
 
 ## LinkedIn Authors

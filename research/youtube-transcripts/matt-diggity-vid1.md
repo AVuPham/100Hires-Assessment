@@ -1,9 +1,10 @@
 # Transcript: I did AI-SEO for ChatGPT and Google AI. Here's what happened...
 
-Source: https://www.youtube.com/watch?v=4GBlHObjOrY
-
+Source: https://www.youtube.com/watch?v=4GBlHObjOrY  
 Channel: Matt Diggity  
-Duration: 08:36
+Duration: 08:36  
+Published: 2025-06-18  
+Language: en-US
 
 ## Transcript
 
