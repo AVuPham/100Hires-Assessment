@@ -20,9 +20,9 @@
    - *Annotation:* Former Director of SEO at Shopify. Analyzes macro-level SEO strategies in the era of AI Overviews (SGE).
 7. **[Eli Schwartz](https://www.linkedin.com/in/schwartze/)**
    - *Annotation:* Author of "Product-Led SEO". Focuses on how AI changes B2B search behavior and how to adapt content strategies.
-8. **[Steve Toth (SEO Notebook)](https://www.linkedin.com/in/stevetothseo/)**
+8. **[Steve Toth (SEO Notebook)](https://www.linkedin.com/in/stevetothjr/)**
    - *Annotation:* Shares niche AI applications for SEO, such as competitive analysis using custom GPTs and data manipulation.
 9. **[Mark Williams-Cook](https://www.linkedin.com/in/markseo/)**
    - *Annotation:* Founder of AlsoAsked. Breaks down how AI understands search intent and how to structure content for entity SEO.
-10. **[Lily Ray](https://www.linkedin.com/in/lilyrayseo/)**
+10. **[Lily Ray](https://www.linkedin.com/in/lily-ray-44755615/)**
     - *Annotation:* Leading expert on E-E-A-T. Provides crucial insights on how to balance AI content generation with Google's quality guidelines.
